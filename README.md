@@ -31,4 +31,4 @@ const Demo = () => {
 
 ### Options
 
-For a list of options and event handler please see [this link](https://developer.mozilla.org/en-US/docs/Web/API/Notification])
+For a list of options and event handler please see [this link](https://developer.mozilla.org/en-US/docs/Web/API/Notification)
